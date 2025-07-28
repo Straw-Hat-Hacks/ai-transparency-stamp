@@ -1,6 +1,6 @@
 # AI Transparency Stamp
 
-A lightweight, open-labeling system to disclose the presence of AI-generated or AI-assisted content in social media posts, articles, and creative works.
+A minimal, open-labeling system to disclose the presence of AI-generated or AI-assisted content in social media posts, articles, and creative works.
 
 ## 🧠 Why This Project Exists
 
@@ -17,7 +17,7 @@ Add a simple stamp at the end of your content like this:
 **AI Transparency Stamp**  
 Text: Human-written  
 Image: AI-generated  
-About the stamp: [link]
+About the stamp: https://straw-hat-hacks.github.io/ai-transparency-stamp/  
 
 
 You choose from the following categories:
@@ -45,8 +45,8 @@ You choose from the following categories:
 
 ## 📦 What's in This Repo
 
-- `stamp-templates/` – Pre-made image badges (light & dark)
-- `examples/` – Screenshots of real-world use cases
+- `stamp-templates/` – Pre-made image badges (light & dark) (COMING SOON)
+- `examples/` – Examples of real-world use cases
 - `guidelines.md` – Full value definitions and formatting rules
 - `LICENSE` – Creative Commons BY 4.0
 
