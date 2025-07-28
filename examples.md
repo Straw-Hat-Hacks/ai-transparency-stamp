@@ -11,10 +11,10 @@ This page outlines common scenarios where the **AI Transparency Stamp** can be a
 **Scenario:** You wrote a personal reflection post and designed the banner image yourself.  
 **Stamp:**
 
-AI Transparency Stamp  
+AI Transparency Stamp (AITS)  
 Text: Human-written  
 Image: Human-made  
-About the stamp: [link]
+About the stamp: https://straw-hat-hacks.github.io/ai-transparency-stamp/  
 
 ---
 
@@ -23,10 +23,10 @@ About the stamp: [link]
 **Scenario:** You asked an AI tool to draft your article, edited it heavily, and used AI to generate a banner image.  
 **Stamp:**
 
-AI Transparency Stamp  
+AI Transparency Stamp (AITS)  
 Text: Human-edited AI draft  
 Image: AI-generated      
-About the stamp: [link]
+About the stamp: https://straw-hat-hacks.github.io/ai-transparency-stamp/  
 
 ---
 
@@ -35,10 +35,10 @@ About the stamp: [link]
 **Scenario:** You write a post yourself but use Midjourney or DALL·E to create a visual.  
 **Stamp:**
 
-AI Transparency Stamp  
+AI Transparency Stamp (AITS)  
 Text: Human-written  
 Image: AI-generated      
-About the stamp: [link]
+About the stamp: https://straw-hat-hacks.github.io/ai-transparency-stamp/  
 
 ---
 
@@ -47,10 +47,10 @@ About the stamp: [link]
 **Scenario:** The text was generated and lightly copy-pasted, and the image was created by AI.  
 **Stamp:**
 
-AI Transparency Stamp  
+AI Transparency Stamp (AITS)  
 Text: AI-generated  
 Image: AI-generated      
-About the stamp: [link]
+About the stamp: https://straw-hat-hacks.github.io/ai-transparency-stamp/  
 
 ---
 
@@ -59,10 +59,10 @@ About the stamp: [link]
 **Scenario:** You created a sketch or base design, then used AI tools to enhance or finish the visual.  
 **Stamp:**
 
-AI Transparency Stamp  
+AI Transparency Stamp (AITS)  
 Text: Human-written  
 Image: Hybrid      
-About the stamp: [link]
+About the stamp: https://straw-hat-hacks.github.io/ai-transparency-stamp/  
 
 ---
 
