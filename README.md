@@ -19,8 +19,6 @@ Text: Human-written
 Image: AI-generated  
 About the stamp: https://straw-hat-hacks.github.io/ai-transparency-stamp/  
 
-You choose from the following categories to use as options for the text and image respectively:
-
 ### **Text Options**
 - `Human-written`
 - `Human-edited AI draft`
