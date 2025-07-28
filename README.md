@@ -38,6 +38,8 @@ About the stamp: https://github.com/Straw-Hat-Hacks/ai-transparency-stamp
 - 📊 Reports, newsletters, or infographics  
 - 🧩 Projects or documentation that involve generative tools
 
+👉 For real-world usage scenarios and stamp combinations, check out the [Examples Guide](./examples.md).  
+
 ---
 
 ## 📦 What's in This Repo
