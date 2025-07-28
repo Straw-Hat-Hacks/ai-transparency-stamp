@@ -23,7 +23,7 @@ Replace the `Text` and `Image` values based on the definitions below.
 Transparent attribution builds trust, encourages ethical AI use, and helps signal the value of human creativity in a world of automation.
 
 If you're unsure which label to use, lean toward disclosure.  
-The goal is not perfection — it's honesty.
+The goal is not perfection, it's honesty.
 
 ---
 
@@ -58,4 +58,4 @@ _Licensed under [CC BY 4.0](LICENSE)_
 
 ---
 
-✅ When in doubt, choose the value that most closely reflects the **source of creation**, not just the tool. The goal is transparency — not perfection.
+✅ When in doubt, choose the value that most closely reflects the **source of creation**, not just the tool. The goal is transparency, not perfection.
