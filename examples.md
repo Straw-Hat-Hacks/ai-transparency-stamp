@@ -14,7 +14,7 @@ This page outlines common scenarios where the **AI Transparency Stamp** can be a
 AI Transparency Stamp (AITS)  
 Text: Human-written  
 Image: Human-made  
-About the stamp: https://straw-hat-hacks.github.io/ai-transparency-stamp/  
+About the stamp: https://github.com/Straw-Hat-Hacks/ai-transparency-stamp  
 
 ---
 
@@ -26,7 +26,7 @@ About the stamp: https://straw-hat-hacks.github.io/ai-transparency-stamp/
 AI Transparency Stamp (AITS)  
 Text: Human-edited AI draft  
 Image: AI-generated      
-About the stamp: https://straw-hat-hacks.github.io/ai-transparency-stamp/  
+About the stamp: https://github.com/Straw-Hat-Hacks/ai-transparency-stamp  
 
 ---
 
@@ -38,7 +38,7 @@ About the stamp: https://straw-hat-hacks.github.io/ai-transparency-stamp/
 AI Transparency Stamp (AITS)  
 Text: Human-written  
 Image: AI-generated      
-About the stamp: https://straw-hat-hacks.github.io/ai-transparency-stamp/  
+About the stamp: https://github.com/Straw-Hat-Hacks/ai-transparency-stamp  
 
 ---
 
@@ -50,7 +50,7 @@ About the stamp: https://straw-hat-hacks.github.io/ai-transparency-stamp/
 AI Transparency Stamp (AITS)  
 Text: AI-generated  
 Image: AI-generated      
-About the stamp: https://straw-hat-hacks.github.io/ai-transparency-stamp/  
+About the stamp: https://github.com/Straw-Hat-Hacks/ai-transparency-stamp  
 
 ---
 
@@ -62,7 +62,7 @@ About the stamp: https://straw-hat-hacks.github.io/ai-transparency-stamp/
 AI Transparency Stamp (AITS)  
 Text: Human-written  
 Image: Hybrid      
-About the stamp: https://straw-hat-hacks.github.io/ai-transparency-stamp/  
+About the stamp: https://github.com/Straw-Hat-Hacks/ai-transparency-stamp  
 
 ---
 
