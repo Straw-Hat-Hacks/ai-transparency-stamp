@@ -47,7 +47,7 @@ git push origin your-feature-name
 - Use inclusive, neutral tone and clear language
 - Maintain consistent markdown formatting
 - Keep examples brief, accurate, and realistic
-- Follow the [CC BY 4.0](LICENSE) license — attribution is required for all assets
+- Follow the [CC BY 4.0](LICENSE) license, attribution is required for all assets
 
 ---
 
