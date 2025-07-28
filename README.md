@@ -14,7 +14,7 @@ With AI-generated content rapidly filling our feeds, it’s becoming harder to t
 
 Add a simple stamp at the end of your content like this:
 
-AI Transparency Stamp  
+**AI Transparency Stamp**  
 Text: Human-written  
 Image: AI-generated  
 About the stamp: [link]
