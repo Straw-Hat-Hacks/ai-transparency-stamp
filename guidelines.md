@@ -1,14 +1,14 @@
 # 🧾 AI Transparency Stamp – Guidelines
 
-This document explains how to use the **AI Transparency Stamp** and defines the available values for text and image content. It’s designed to help creators, marketers, and professionals clearly disclose the use of AI in their work.
+This document explains how to use the **AI Transparency Stamp (AITS)** and defines the available values for text and image content. It’s designed to help creators, marketers, and professionals clearly disclose the use of AI in their work.
 
 ---
 
 ## 🏷️ Standard Stamp Format
 
-AI Transparency Stamp  
-Text: Human-written  
-Image: AI-generated  
+AI Transparency Stamp (AITS)  
+Text: 'value'  
+Image: 'value'    
 About the stamp: https://github.com/Straw-Hat-Hacks/ai-transparency-stamp
 
 
