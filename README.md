@@ -12,7 +12,7 @@ With AI-generated content rapidly filling our feeds, it’s becoming harder to t
 
 ## 🏷️ How It Works
 
-Add a simple stamp at the end of your content like this:
+Add a simple stamp at the end of your content like this (adjust text and image options accordingly):
 
 **AI Transparency Stamp (AITS)**  
 Text: Human-written  
