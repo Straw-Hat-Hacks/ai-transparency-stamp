@@ -11,7 +11,7 @@ Add the following to the end of your content:
 AI Transparency Stamp (AITS)  
 Text: 'insert value'  
 Image: 'insert value'  
-About the stamp: https://straw-hat-hacks.github.io/ai-transparency-stamp  
+About the stamp: https://github.com/Straw-Hat-Hacks/ai-transparency-stamp  
 
 
 Replace the `Text` and `Image` values based on the definitions below.
