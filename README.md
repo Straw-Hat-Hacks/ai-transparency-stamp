@@ -17,7 +17,7 @@ Add a simple stamp at the end of your content like this (adjust text and image o
 **AI Transparency Stamp (AITS)**  
 Text: Human-written  
 Image: AI-generated  
-About the stamp: https://straw-hat-hacks.github.io/ai-transparency-stamp/  
+About the stamp: https://github.com/Straw-Hat-Hacks/ai-transparency-stamp  
 
 ### **Text Options**
 - `Human-written`
