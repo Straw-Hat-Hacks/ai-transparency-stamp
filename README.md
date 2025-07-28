@@ -1,4 +1,4 @@
-# AI Transparency Stamp
+# AI Transparency Stamp (AITS)
 
 A minimal, open-labeling system to disclose the presence of AI-generated or AI-assisted content in social media posts, articles, and creative works.
 
@@ -14,7 +14,7 @@ With AI-generated content rapidly filling our feeds, it’s becoming harder to t
 
 Add a simple stamp at the end of your content like this:
 
-**AI Transparency Stamp**  
+**AI Transparency Stamp (AITS)**  
 Text: Human-written  
 Image: AI-generated  
 About the stamp: https://straw-hat-hacks.github.io/ai-transparency-stamp/  
